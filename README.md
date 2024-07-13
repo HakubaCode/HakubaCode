@@ -8,11 +8,16 @@
     
 <h1>🌐 Web Development Projects:</h1>
 
+### 🔍 Google Homepage Recreation
 
-  - <b>HTML/CSS</b>
-    -   [Google Homepage](https://hakubacode-google.netlify.app/)
-        -   [Repository](https://github.com/HakubaCode/Google-Homepage)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-brightgreen?style=for-the-badge)](https://hakubacode-google.netlify.app/)
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/HakubaCode/Google-Homepage)
 
+🛠️ **Technologies:** HTML, CSS
+
+📋 A pixel-perfect recreation of the Google homepage, demonstrating front-end skills and attention to detail.
+
+📋 A pixel-perfect recreation of the Google homepage, demonstrating front-end skills and attention to detail.
 
 <h2> 🤝 Connect with me:</h2>
 
