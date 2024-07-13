@@ -15,9 +15,8 @@
 
 🛠️ **Technologies:** HTML, CSS
 
-📋 A pixel-perfect recreation of the Google homepage, demonstrating front-end skills and attention to detail.
+📋 Demonstrates front-end skills and attention to detail.
 
-📋 A pixel-perfect recreation of the Google homepage, demonstrating front-end skills and attention to detail.
 
 <h2> 🤝 Connect with me:</h2>
 
