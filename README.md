@@ -7,7 +7,10 @@
   - [Tip Calculator](https://github.com/HakubaCode/Tip-Calculator)
     
 <h1>🌐 Web Development Projects:</h1>
-  
+
+
+  - <b>HTML/CSS</b>
+    -   [Google Homepage](https://hakubacode-google.netlify.app/)
 
 
 <h2> 🤝 Connect with me:</h2>
