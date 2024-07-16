@@ -20,6 +20,4 @@
 
 <h2> 🤝 Connect with me:</h2>
 
-[<img align="left" alt="SeanDeSilva | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-[linkedin]: https://linkedin.com/in/seandesilva
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seandesilva)  
