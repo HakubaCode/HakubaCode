@@ -2,9 +2,12 @@
 
 <h1>👨‍💻 Software Engineer/Development Projects:</h1>
 
+<h2>🌸 Python Projects</h2> 
 
-- <b>Python</b>
-  - [Tip Calculator](https://github.com/HakubaCode/Tip-Calculator)
+<h3>💵 Tip Calculator Project</h3>
+
+[![GitHub Repo](https://img.shields.io/badge/GitHub_Repo-orange?style=for-the-badge&logo=github)](https://github.com/HakubaCode/Tip-Calculator)
+
     
 <h1>🌐 Web Development Projects:</h1>
 
