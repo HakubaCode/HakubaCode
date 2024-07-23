@@ -6,7 +6,7 @@
 
 <h3>💵 Tip Calculator </h3>
 
-[![GitHub Repo](https://img.shields.io/badge/GitHub_Repo-orange?style=for-the-badge&logo=github)](https://github.com/HakubaCode/Tip-Calculator)
+[![GitHub Repo](https://img.shields.io/badge/GitHub_Repo-blue?style=for-the-badge&logo=github)](https://github.com/HakubaCode/Tip-Calculator)
 
 📋 Demonstrates practical problem-solving, and user-friendly command-line interface design.
 
