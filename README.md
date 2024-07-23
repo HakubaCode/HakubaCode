@@ -4,7 +4,7 @@
 
 <h2>🌸 Python Projects</h2> 
 
-<h3>💵 Tip Calculator Project</h3>
+<h3>💵 Tip Calculator </h3>
 
 [![GitHub Repo](https://img.shields.io/badge/GitHub_Repo-orange?style=for-the-badge&logo=github)](https://github.com/HakubaCode/Tip-Calculator)
 
