@@ -8,6 +8,8 @@
 
 [![GitHub Repo](https://img.shields.io/badge/GitHub_Repo-orange?style=for-the-badge&logo=github)](https://github.com/HakubaCode/Tip-Calculator)
 
+📋 Demonstrates Practical problem-solving, and user-friendly command-line interface design.
+
     
 <h1>🌐 Web Development Projects:</h1>
 
