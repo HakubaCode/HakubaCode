@@ -15,7 +15,7 @@
 
 <h2>🔍 Google Homepage Recreation</h2> 
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-brightgreen?style=for-the-badge)](https://google-homepage-hakubacode.netlify.app/)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-brightgreen?style=for-the-badge)](https://google-homepage-hakuba.netlify.app/)
 [![GitHub Repo](https://img.shields.io/badge/GitHub_Repo-blue?style=for-the-badge&logo=github)](https://github.com/HakubaCode/Google-Homepage)
 
 🛠️ **Technologies:** HTML, CSS.
