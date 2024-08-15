@@ -2,9 +2,9 @@
 
 <h1>👨‍💻 Software Engineer/Development Projects:</h1>
 
-<h2>🌸 Python Projects</h2> 
+<h2>Python Projects</h2> 
 
-<h3>💵 Tip Calculator </h3>
+<h3>Tip Calculator </h3>
 
 [![GitHub Repo](https://img.shields.io/badge/GitHub_Repo-blue?style=for-the-badge&logo=github)](https://github.com/HakubaCode/Tip-Calculator)
 
@@ -13,7 +13,7 @@
     
 <h1>🌐 Web Development Projects:</h1>
 
-<h2>🔍 Google Homepage Recreation</h2> 
+<h2>Google Homepage Recreation</h2> 
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-brightgreen?style=for-the-badge)](https://google-homepage-hakuba.netlify.app/)
 [![GitHub Repo](https://img.shields.io/badge/GitHub_Repo-blue?style=for-the-badge&logo=github)](https://github.com/HakubaCode/Google-Homepage)
@@ -22,7 +22,7 @@
 
 📋 Demonstrates front-end skills and attention to detail.
 
-<h2>🍱 Bento Website</h2>
+<h2>Bento Website</h2>
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-brightgreen?style=for-the-badge)](https://bento-hakuba.netlify.app/)
 [![GitHub Repo](https://img.shields.io/badge/GitHub_Repo-blue?style=for-the-badge&logo=github)](https://github.com/HakubaCode/Bento)
