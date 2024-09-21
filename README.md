@@ -1,35 +1,46 @@
-
 <h1>Hello and Welcome! <img src="https://camo.githubusercontent.com/6c91fe5d81f78b7b5d7c1642e2bd173deaf7e0b9feb1694e6525a55efa7a895e/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313533363335313037352f343539342f626c6f622d776176652e676966" width="30px"></h1>
 
-<h1>👨‍💻 Software Engineer/Development Projects:</h1>
+<h1>👨‍💻 Software Engineering Projects:</h1>
 
-<h2>Python Projects</h2> 
+<h2>Python Projects</h2>
 
-<h3>Tip Calculator </h3>
+<h3>Tip Calculator</h3>
 
 [![GitHub Repo](https://img.shields.io/badge/GitHub_Repo-blue?style=for-the-badge&logo=github)](https://github.com/HakubaCode/Tip-Calculator)
 
-📋 Demonstrates practical problem-solving, and user-friendly command-line interface design.
+📋 Demonstrates practical problem-solving and user-friendly command-line interface design.
 
-    
-<h1>🌐 Web Development Projects:</h1>
+<h3>Data Sorting Algorithms</h3>
 
-<h2>PLace_Holder</h2> 
+[![GitHub Repo](https://img.shields.io/badge/GitHub_Repo-blue?style=for-the-badge&logo=github)](https://github.com/HakubaCode/Data-Sorting-Algorithms)
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-brightgreen?style=for-the-badge)](https://google-homepage-hakuba.netlify.app/)
-[![GitHub Repo](https://img.shields.io/badge/GitHub_Repo-blue?style=for-the-badge&logo=github)](https://github.com/HakubaCode/Google-Homepage)
+📋 Implements efficient sorting algorithms, highlighting knowledge of Big O Notation and data structures.
 
-🛠️ **Technologies:** Next.js, TypeScript, Tailwind CSS.
+<h3>File Navigation System</h3>
 
-📋 Demonstrates front-end skills and attention to detail.
+[![GitHub Repo](https://img.shields.io/badge/GitHub_Repo-blue?style=for-the-badge&logo=github)](https://github.com/HakubaCode/File-Navigation-System)
 
-<h2>Place_Holder</h2>
+📋 A command-line application that mimics a basic file system, demonstrating recursion, file I/O, and error handling in Python.
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-brightgreen?style=for-the-badge)](https://bento-hakuba.netlify.app/)
-[![GitHub Repo](https://img.shields.io/badge/GitHub_Repo-blue?style=for-the-badge&logo=github)](https://github.com/HakubaCode/Bento)
+<h2>Other Projects</h2>
 
-🛠️ **Technologies:** Next.js, TypeScript, Tailwind CSS.
-📋 Demonstrates front-end skills and interactive web design.
+<h3>Command-Line To-Do Application</h3>
+
+[![GitHub Repo](https://img.shields.io/badge/GitHub_Repo-blue?style=for-the-badge&logo=github)](https://github.com/HakubaCode/ToDo-App)
+
+📋 A simple CLI-based to-do list manager, showcasing software development cycles, object-oriented programming, and file handling.
+
+<h3>Automated PDF Generator</h3>
+
+[![GitHub Repo](https://img.shields.io/badge/GitHub_Repo-blue?style=for-the-badge&logo=github)](https://github.com/HakubaCode/PDF-Generator)
+
+📋 Automatically generates PDF reports from data inputs, demonstrating Python libraries, string manipulation, and reporting features.
+
+<h3>Data Visualizer</h3>
+
+[![GitHub Repo](https://img.shields.io/badge/GitHub_Repo-blue?style=for-the-badge&logo=github)](https://github.com/HakubaCode/Data-Visualizer)
+
+📋 Visualizes data using Python libraries like Matplotlib and Seaborn, with a focus on presenting complex data in an accessible way.
 
 <h2> 🤝 Find me here:</h2>
 
