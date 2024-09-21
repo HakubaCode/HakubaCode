@@ -19,17 +19,16 @@
 [![Live Demo](https://img.shields.io/badge/Live_Demo-brightgreen?style=for-the-badge)](https://google-homepage-hakuba.netlify.app/)
 [![GitHub Repo](https://img.shields.io/badge/GitHub_Repo-blue?style=for-the-badge&logo=github)](https://github.com/HakubaCode/Google-Homepage)
 
-🛠️ **Technologies:** HTML, CSS.
+🛠️ **Technologies:** Next.js, TypeScript, Tailwind CSS.
 
 📋 Demonstrates front-end skills and attention to detail.
 
-<h2>Bento Website</h2>
+<h2>Place_Holder</h2>
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-brightgreen?style=for-the-badge)](https://bento-hakuba.netlify.app/)
 [![GitHub Repo](https://img.shields.io/badge/GitHub_Repo-blue?style=for-the-badge&logo=github)](https://github.com/HakubaCode/Bento)
 
-🛠️ **Technologies:** HTML, CSS, JavaScript.
-
+🛠️ **Technologies:** Next.js, TypeScript, Tailwind CSS.
 📋 Demonstrates front-end skills and interactive web design.
 
 <h2> 🤝 Find me here:</h2>
