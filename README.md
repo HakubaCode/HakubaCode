@@ -10,6 +10,12 @@
 
 📋 Demonstrates practical problem-solving and user-friendly command-line interface design.
 
+<h3>File Organization Script</h3>
+
+[![GitHub Repo](https://img.shields.io/badge/GitHub_Repo-blue?style=for-the-badge&logo=github)](https://github.com/HakubaCode/file-organizer)
+
+📋 A Python script that automatically organizes files in a specified directory into categorized folders based on file extensions, demonstrating file manipulation and basic I/O operations.
+
 <h3>Data Sorting Algorithms</h3>
 
 [![GitHub Repo](https://img.shields.io/badge/GitHub_Repo-blue?style=for-the-badge&logo=github)](https://github.com/HakubaCode/Data-Sorting-Algorithms)
