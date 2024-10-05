@@ -10,7 +10,7 @@
 
 📋 Demonstrates practical problem-solving and user-friendly command-line interface design.
 
-<h3>File Organization Script</h3>
+<h3>File Organization</h3>
 
 [![GitHub Repo](https://img.shields.io/badge/GitHub_Repo-blue?style=for-the-badge&logo=github)](https://github.com/HakubaCode/file-organizer)
 
