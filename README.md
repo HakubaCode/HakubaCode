@@ -22,11 +22,11 @@
 
 📋 A script to download YouTube videos to MP3 demonstrating fil navigation, error handling, command-line input handling.
 
-<h3>File Navigation System</h3>
+<h3>YouTube to MP4</h3>
 
-[![GitHub Repo](https://img.shields.io/badge/GitHub_Repo-blue?style=for-the-badge&logo=github)](https://github.com/HakubaCode/File-Navigation-System)
+[![GitHub Repo](https://img.shields.io/badge/GitHub_Repo-blue?style=for-the-badge&logo=github)](https://github.com/HakubaCode/YouTubeMP4)
 
-📋Place holder.
+📋 A script to download YouTube videos to MP4 demonstrating the use of yt_dlp to fetch high-quality video content up to 1080p resolution.
 
 <h2>Other Projects</h2>
 
