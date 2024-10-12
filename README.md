@@ -16,9 +16,9 @@
 
 📋 Automatically organizes files in a specified directory into categorized folders based on file extensions, demonstrating file manipulation and basic I/O operations.
 
-<h3>Data Sorting Algorithms</h3>
+<h3>YouTube to MP3</h3>
 
-[![GitHub Repo](https://img.shields.io/badge/GitHub_Repo-blue?style=for-the-badge&logo=github)](https://github.com/HakubaCode/Data-Sorting-Algorithms)
+[![GitHub Repo](https://img.shields.io/badge/GitHub_Repo-blue?style=for-the-badge&logo=github)](https://github.com/HakubaCode/YouTubeMP3)
 
 📋 Implements efficient sorting algorithms, highlighting knowledge of Big O Notation and data structures.
 
@@ -26,7 +26,7 @@
 
 [![GitHub Repo](https://img.shields.io/badge/GitHub_Repo-blue?style=for-the-badge&logo=github)](https://github.com/HakubaCode/File-Navigation-System)
 
-📋 A command-line application that mimics a basic file system, demonstrating recursion, file I/O, and error handling in Python.
+📋 A script to download YouTube videos to MP3 demonstrating fil navigation, error handling, command-line input handling.
 
 <h2>Other Projects</h2>
 
