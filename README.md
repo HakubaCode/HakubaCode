@@ -20,13 +20,13 @@
 
 [![GitHub Repo](https://img.shields.io/badge/GitHub_Repo-blue?style=for-the-badge&logo=github)](https://github.com/HakubaCode/YouTubeMP3)
 
-📋 Implements efficient sorting algorithms, highlighting knowledge of Big O Notation and data structures.
+📋 A script to download YouTube videos to MP3 demonstrating fil navigation, error handling, command-line input handling.
 
 <h3>File Navigation System</h3>
 
 [![GitHub Repo](https://img.shields.io/badge/GitHub_Repo-blue?style=for-the-badge&logo=github)](https://github.com/HakubaCode/File-Navigation-System)
 
-📋 A script to download YouTube videos to MP3 demonstrating fil navigation, error handling, command-line input handling.
+📋Place holder.
 
 <h2>Other Projects</h2>
 
