@@ -10,13 +10,6 @@
 
 📋 A Windows desktop app that fingerprints critical files with SHA-256 and alerts you when anything is modified, added, or deleted — catching malware infections, tampering, or accidental edits.
 
-<h3>Invoice Generator</h3>
-
-[![GitHub Repo](https://img.shields.io/badge/GitHub_Repo-blue?style=for-the-badge&logo=github)](https://github.com/HakubaCode/Invoice-Generator)
-
-📋 Engineered a full-stack Invoice Management System using Python/FastAPI, featuring automated PDF generation, RESTful API, Docker containerization and CI/CD pipeline. 
-
-
 <h2> 🤝 Find me here:</h2>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seandesilva)
